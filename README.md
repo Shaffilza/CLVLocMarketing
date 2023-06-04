@@ -20,7 +20,7 @@ This project aims to address three key challenges in location-based marketing fo
 
 Successful resolution of these challenges will enable enterprises to effectively forecast CLV, segment customers into targeted regions, and design informed marketing and customer engagement strategies.
 
-## The objective of this study is to: 
+## Objective Study
 
 * Identify attributes or features that affect the customer lifetime value based on the location. 
 
