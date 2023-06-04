@@ -41,7 +41,7 @@ $ pip install folium
 ```
 ## Start
 To run this project, first download the file from the link given in [Data Source](#data-source).
-Then download [here](https://github.com/Shaffilza/CLVLocMarketing/CLVLocMarketing.ipynb). Install necessary packages. 
+Then download [here](https://github.com/Shaffilza/CLVLocMarketing/blob/main/CLVLocMarketing.ipynb). Install necessary packages. 
 
 ## Data Source
 
